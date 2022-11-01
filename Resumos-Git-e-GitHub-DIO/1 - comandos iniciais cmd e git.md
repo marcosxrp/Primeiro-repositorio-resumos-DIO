@@ -1,5 +1,5 @@
 ## Comandos básicos
-###Windows
+### Windows
 - dir -- mostrar diretorio 
 - cd -- ir para diretorio
 - echo -- repitir > criar coisas
@@ -7,7 +7,7 @@
 - rmdir /s /q -- remover diretorio
 - del -- deletar arquivo 
 - cls -- limpar
-###Git/Linux
+### Git/Linux
 - ls -- mostrar diretorio
 - ls -a -- mostrar arquivos ocultos
 - cd -- ir para diretorio
