@@ -2,7 +2,7 @@
 - git/gerenciador - criar nova pasta
 - git - git init inicializar um repositorio.git
 - gerenciador - adcionar arquivo dentro da pasta (basico é .md)
-- git - git add * na pasta principal quando terminar de configurar o arquivo
+- git - git add */ git add --all na pasta principal quando terminar de configurar o arquivo
 - git - git add "nome do arquivos ou pastas, podendo estar em sequencia" para fazer apenas em um arquivo especifico
 - git - git commit -m "nome dado ao commit(commit inicial)" tem que deixar as duas aspas
 - git - git status ver status dos arquivos
